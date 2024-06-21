@@ -17,7 +17,8 @@
 ## How to Build:
 1. Do the LCD in the 3D-Model: <br>
 
-![Step1](Step.png)
+![Step1](Step1.png)
+![Step1_2](Step1_2.png)
 <br>
 
 2. Do the Breadboard with only on Button in the Model: <br>
@@ -32,7 +33,11 @@
 
 4. Finaly the Project shoud seening like this: <br>
 
-![Final](fianl.png)
+![Final](Final.png)
 <br>
 
 ## Upload the Code:
+
+Copy the Code from [Skript.ino](Skript.ino) in the Arduino Ide and Upload the Code on your Arduino UNO <br>
+Don't forget to download the LiquidCrystal_I2C and the Wire library. <br>
+https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/
